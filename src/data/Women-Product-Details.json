@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 11,
+      "name": "Women's Dress",
+      "description": "Elegant evening dress perfect for special occasions.",
+      "price": 80,
+      "size": ["S", "M", "L", "XL"],
+      "color": ["Red", "Blue", "Black"],
+      "imageUrl": "path/to/dress.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Women's Blouse",
+      "description": "Chic silk blouse ideal for both formal and casual wear.",
+      "price": 45,
+      "size": ["S", "M", "L", "XL"],
+      "color": ["White", "Pink", "Blue"],
+      "imageUrl": "path/to/blouse.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Women's Skirt",
+      "description": "Floral summer skirt with a comfortable fit.",
+      "price": 35,
+      "size": ["S", "M", "L", "XL"],
+      "color": ["Yellow", "Blue", "Green"],
+      "imageUrl": "path/to/skirt.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Women's Heels",
+      "description": "High-heeled shoes perfect for formal occasions.",
+      "price": 60,
+      "size": ["6", "7", "8", "9"],
+      "color": ["Black", "Red", "Nude"],
+      "imageUrl": "path/to/heels.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Women's Bag",
+      "description": "Leather handbag with multiple compartments.",
+      "price": 100,
+      "size": ["One Size"],
+      "color": ["Black", "Brown", "Beige"],
+      "imageUrl": "path/to/bag.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Women's Scarf",
+      "description": "Silk scarf available in various patterns.",
+      "price": 20,
+      "size": ["One Size"],
+      "color": ["Red", "Blue", "Green"],
+      "imageUrl": "path/to/scarf.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Women's Necklace",
+      "description": "Gold-plated necklace with a sleek design.",
+      "price": 75,
+      "size": ["One Size"],
+      "color": ["Gold", "Silver"],
+      "imageUrl": "path/to/necklace.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Women's Earrings",
+      "description": "Diamond earrings perfect for special occasions.",
+      "price": 150,
+      "size": ["One Size"],
+      "color": ["Silver"],
+      "imageUrl": "path/to/earrings.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Women's Bracelet",
+      "description": "Silver bracelet with an elegant design.",
+      "price": 50,
+      "size": ["One Size"],
+      "color": ["Silver"],
+      "imageUrl": "path/to/bracelet.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Women's Hat",
+      "description": "Wide-brim hat perfect for sunny days.",
+      "price": 25,
+      "size": ["One Size"],
+      "color": ["Beige", "White", "Black"],
+      "imageUrl": "path/to/hat.jpg"
+    }
+  ]
+}

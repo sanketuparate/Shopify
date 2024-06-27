@@ -1,0 +1,183 @@
+{
+  "Men": [
+    {
+      "id": 1,
+      "name": "Men's T-Shirt",
+      "description": "Comfortable cotton T-shirt",
+      "price": 20
+    },
+    {
+      "id": 2,
+      "name": "Men's Jeans",
+      "description": "Stylish denim jeans",
+      "price": 50
+    },
+    {
+      "id": 3,
+      "name": "Men's Jacket",
+      "description": "Warm winter jacket",
+      "price": 100
+    },
+    {
+      "id": 4,
+      "name": "Men's Sneakers",
+      "description": "Running sneakers",
+      "price": 70
+    },
+    {
+      "id": 5,
+      "name": "Men's Hat",
+      "description": "Cool baseball hat",
+      "price": 15
+    },
+    {
+      "id": 6,
+      "name": "Men's Sunglasses",
+      "description": "UV protection sunglasses",
+      "price": 25
+    },
+    {
+      "id": 7,
+      "name": "Men's Watch",
+      "description": "Stylish wrist watch",
+      "price": 150
+    },
+    {
+      "id": 8,
+      "name": "Men's Belt",
+      "description": "Leather belt",
+      "price": 30
+    },
+    {
+      "id": 9,
+      "name": "Men's Wallet",
+      "description": "Leather wallet",
+      "price": 40
+    },
+    {
+      "id": 10,
+      "name": "Men's Socks",
+      "description": "Comfortable cotton socks",
+      "price": 10
+    }
+  ],
+  "Women": [
+    {
+      "id": 11,
+      "name": "Women's Dress",
+      "description": "Elegant evening dress",
+      "price": 80
+    },
+    {
+      "id": 12,
+      "name": "Women's Blouse",
+      "description": "Chic silk blouse",
+      "price": 45
+    },
+    {
+      "id": 13,
+      "name": "Women's Skirt",
+      "description": "Floral summer skirt",
+      "price": 35
+    },
+    {
+      "id": 14,
+      "name": "Women's Heels",
+      "description": "High-heeled shoes",
+      "price": 60
+    },
+    {
+      "id": 15,
+      "name": "Women's Bag",
+      "description": "Leather handbag",
+      "price": 100
+    },
+    {
+      "id": 16,
+      "name": "Women's Scarf",
+      "description": "Silk scarf",
+      "price": 20
+    },
+    {
+      "id": 17,
+      "name": "Women's Necklace",
+      "description": "Gold-plated necklace",
+      "price": 75
+    },
+    {
+      "id": 18,
+      "name": "Women's Earrings",
+      "description": "Diamond earrings",
+      "price": 150
+    },
+    {
+      "id": 19,
+      "name": "Women's Bracelet",
+      "description": "Silver bracelet",
+      "price": 50
+    },
+    {
+      "id": 20,
+      "name": "Women's Hat",
+      "description": "Wide-brim hat",
+      "price": 25
+    }
+  ],
+  "Electronics": [
+    {
+      "id": 21,
+      "name": "Smartphone",
+      "description": "Latest model smartphone",
+      "price": 700
+    },
+    {
+      "id": 22,
+      "name": "Laptop",
+      "description": "High-performance laptop",
+      "price": 1200
+    },
+    {
+      "id": 23,
+      "name": "Headphones",
+      "description": "Noise-cancelling headphones",
+      "price": 200
+    },
+    {
+      "id": 24,
+      "name": "Smartwatch",
+      "description": "Fitness tracking smartwatch",
+      "price": 300
+    },
+    {
+      "id": 25,
+      "name": "Tablet",
+      "description": "10-inch screen tablet",
+      "price": 400
+    },
+    {
+      "id": 26,
+      "name": "Camera",
+      "description": "Digital SLR camera",
+      "price": 800
+    },
+    {
+      "id": 27,
+      "name": "Speaker",
+      "description": "Bluetooth portable speaker",
+      "price": 100
+    },
+    {
+      "id": 28,
+      "name": "Monitor",
+      "description": "27-inch 4K monitor",
+      "price": 350
+    },
+    {
+      "id": 29,
+      "name": "Keyboard",
+      "description": "Mechanical keyboard",
+      "price": 100
+    },
+    { "id": 30, "name": "Mouse", "description": "Wireless mouse", "price": 50 }
+  ]
+}

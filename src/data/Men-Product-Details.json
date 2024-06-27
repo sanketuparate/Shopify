@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Men's T-Shirt",
+      "description": "Comfortable cotton T-shirt with a relaxed fit, perfect for everyday wear.",
+      "price": 20,
+      "size": ["S", "M", "L", "XL"],
+      "color": ["Black", "White", "Blue"],
+      "imageUrl": "path/to/tshirt.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Men's Jeans",
+      "description": "Stylish denim jeans with a modern slim fit.",
+      "price": 50,
+      "size": ["30", "32", "34", "36"],
+      "color": ["Blue", "Black"],
+      "imageUrl": "path/to/jeans.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Men's Jacket",
+      "description": "Warm winter jacket with a fleece lining for extra comfort.",
+      "price": 100,
+      "size": ["M", "L", "XL", "XXL"],
+      "color": ["Black", "Navy"],
+      "imageUrl": "path/to/jacket.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Men's Sneakers",
+      "description": "Running sneakers with excellent cushioning and support.",
+      "price": 70,
+      "size": ["8", "9", "10", "11"],
+      "color": ["Red", "Blue", "Gray"],
+      "imageUrl": "path/to/sneakers.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Men's Hat",
+      "description": "Cool baseball hat with adjustable strap for a perfect fit.",
+      "price": 15,
+      "size": ["One Size"],
+      "color": ["Black", "White"],
+      "imageUrl": "path/to/hat.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Men's Sunglasses",
+      "description": "UV protection sunglasses with a stylish design.",
+      "price": 25,
+      "size": ["One Size"],
+      "color": ["Black", "Brown"],
+      "imageUrl": "path/to/sunglasses.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Men's Watch",
+      "description": "Stylish wrist watch with a leather strap and water resistance.",
+      "price": 150,
+      "size": ["One Size"],
+      "color": ["Black", "Brown"],
+      "imageUrl": "path/to/watch.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Men's Belt",
+      "description": "Leather belt with a sleek buckle, perfect for formal and casual wear.",
+      "price": 30,
+      "size": ["M", "L", "XL"],
+      "color": ["Black", "Brown"],
+      "imageUrl": "path/to/belt.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Men's Wallet",
+      "description": "Leather wallet with multiple card slots and a coin pocket.",
+      "price": 40,
+      "size": ["One Size"],
+      "color": ["Black", "Brown"],
+      "imageUrl": "path/to/wallet.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Men's Socks",
+      "description": "Comfortable cotton socks available in a variety of colors.",
+      "price": 10,
+      "size": ["M", "L", "XL"],
+      "color": ["Black", "White", "Gray"],
+      "imageUrl": "path/to/socks.jpg"
+    }
+  ]
+}

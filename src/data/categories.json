@@ -1,0 +1,28 @@
+{
+  "categories": [
+    {
+      "name": "Home",
+      "path": "/"
+    },
+    {
+      "name": "Fashion",
+      "path": "/",
+      "subcategories": [
+        {
+          "name": "Men",
+          "path": "products/men",
+          "subcategories": ["Ethnic Wear", "Casual Wear", "Formal Wear"]
+        },
+        {
+          "name": "Women",
+          "path": "products/women",
+          "subcategories": ["Ethnic Wear", "Western Wear"]
+        }
+      ]
+    },
+    {
+      "name": "Electronics",
+      "path": "/products/electronics"
+    }
+  ]
+}

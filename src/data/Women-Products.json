@@ -1,0 +1,64 @@
+{
+  "category": [
+    {
+      "id": 11,
+      "name": "Women's Dress",
+      "description": "Elegant evening dress",
+      "price": 80
+    },
+    {
+      "id": 12,
+      "name": "Women's Blouse",
+      "description": "Chic silk blouse",
+      "price": 45
+    },
+    {
+      "id": 13,
+      "name": "Women's Skirt",
+      "description": "Floral summer skirt",
+      "price": 35
+    },
+    {
+      "id": 14,
+      "name": "Women's Heels",
+      "description": "High-heeled shoes",
+      "price": 60
+    },
+    {
+      "id": 15,
+      "name": "Women's Bag",
+      "description": "Leather handbag",
+      "price": 100
+    },
+    {
+      "id": 16,
+      "name": "Women's Scarf",
+      "description": "Silk scarf",
+      "price": 20
+    },
+    {
+      "id": 17,
+      "name": "Women's Necklace",
+      "description": "Gold-plated necklace",
+      "price": 75
+    },
+    {
+      "id": 18,
+      "name": "Women's Earrings",
+      "description": "Diamond earrings",
+      "price": 150
+    },
+    {
+      "id": 19,
+      "name": "Women's Bracelet",
+      "description": "Silver bracelet",
+      "price": 50
+    },
+    {
+      "id": 20,
+      "name": "Women's Hat",
+      "description": "Wide-brim hat",
+      "price": 25
+    }
+  ]
+}

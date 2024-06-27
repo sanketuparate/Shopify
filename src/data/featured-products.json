@@ -1,0 +1,31 @@
+{
+  "featuredProducts": [
+    {
+      "id": 1,
+      "title": "Men's Fashion",
+      "name": "men",
+      "description": "Up to 50% off on Men's Fashion",
+      "image": "https://img.freepik.com/premium-photo/man-with-luxury-shopping-white-paper-bag-street_943281-24578.jpg?w=740",
+      "link": "#",
+      "subcategories": ["Ethnic Wear", "Casual Wear", "Formal Wear"]
+    },
+    {
+      "id": 2,
+      "title": "Women's Fashion",
+      "name": "women",
+      "description": "Up to 60% off on Women's Fashion",
+      "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*X35A5dWf296zwb2Lv7WUgQ.jpeg",
+      "link": "#",
+      "subcategories": ["Dresses", "Jewelry", "Handbags"]
+    },
+    {
+      "id": 3,
+      "title": "Laptops",
+      "name": "electronics",
+      "description": "Up to 40% off on Laptops",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/518PvURfFsL._AC_US218_.jpg",
+      "link": "#",
+      "subcategories": ["Gaming Laptops", "Ultrabooks", "MacBooks"]
+    }
+  ]
+}

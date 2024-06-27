@@ -1,0 +1,139 @@
+{
+  "products": [
+    {
+      "id": 21,
+      "name": "Smartphone",
+      "description": "Latest model smartphone with advanced features.",
+      "price": 700,
+      "specs": {
+        "brand": "BrandX",
+        "model": "X200",
+        "storage": "128GB",
+        "color": ["Black", "White", "Blue"],
+        "battery": "4000mAh"
+      },
+      "imageUrl": "assets/Electronics/Smartphone.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Laptop",
+      "description": "High-performance laptop suitable for gaming and work.",
+      "price": 1200,
+      "specs": {
+        "brand": "BrandY",
+        "model": "YPro",
+        "ram": "16GB",
+        "storage": "512GB SSD",
+        "color": ["Silver", "Black"],
+        "screenSize": "15.6 inch"
+      },
+      "imageUrl": "path/to/laptop.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Headphones",
+      "description": "Noise-cancelling headphones with superior sound quality.",
+      "price": 200,
+      "specs": {
+        "brand": "BrandZ",
+        "model": "ZSound",
+        "color": ["Black", "White"],
+        "batteryLife": "20 hours"
+      },
+      "imageUrl": "path/to/headphones.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Smartwatch",
+      "description": "Fitness tracking smartwatch with multiple features.",
+      "price": 300,
+      "specs": {
+        "brand": "BrandA",
+        "model": "ASport",
+        "color": ["Black", "Silver", "Rose Gold"],
+        "batteryLife": "48 hours"
+      },
+      "imageUrl": "path/to/smartwatch.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Tablet",
+      "description": "10-inch screen tablet with high resolution.",
+      "price": 400,
+      "specs": {
+        "brand": "BrandB",
+        "model": "BTab",
+        "storage": "64GB",
+        "color": ["Black", "White"],
+        "battery": "6000mAh"
+      },
+      "imageUrl": "path/to/tablet.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Camera",
+      "description": "Digital SLR camera with 24MP resolution.",
+      "price": 800,
+      "specs": {
+        "brand": "BrandC",
+        "model": "CPro",
+        "lens": "18-55mm",
+        "color": ["Black"]
+      },
+      "imageUrl": "path/to/Camera.png"
+    },
+    {
+      "id": 27,
+      "name": "Speaker",
+      "description": "Bluetooth portable speaker with deep bass.",
+      "price": 100,
+      "specs": {
+        "brand": "BrandD",
+        "model": "DBass",
+        "color": ["Black", "Red", "Blue"],
+        "batteryLife": "10 hours"
+      },
+      "imageUrl": "path/to/Speaker.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Monitor",
+      "description": "27-inch 4K monitor with vibrant colors.",
+      "price": 350,
+      "specs": {
+        "brand": "BrandE",
+        "model": "E4K",
+        "screenSize": "27 inch",
+        "resolution": "3840x2160",
+        "color": ["Black"]
+      },
+      "imageUrl": "path/to/monitor.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Keyboard",
+      "description": "Mechanical keyboard with customizable keys.",
+      "price": 100,
+      "specs": {
+        "brand": "BrandF",
+        "model": "FMech",
+        "color": ["Black", "White"],
+        "switchType": "Cherry MX"
+      },
+      "imageUrl": "path/to/keyboard.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Mouse",
+      "description": "Wireless mouse with ergonomic design.",
+      "price": 50,
+      "specs": {
+        "brand": "BrandG",
+        "model": "GErgo",
+        "color": ["Black", "Gray"],
+        "batteryLife": "6 months"
+      },
+      "imageUrl": "path/to/mouse.jpg"
+    }
+  ]
+}
