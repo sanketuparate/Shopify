@@ -7,7 +7,7 @@
       "price": 20,
       "size": ["S", "M", "L", "XL"],
       "color": ["Black", "White", "Blue"],
-      "imageUrl": "path/to/tshirt.jpg"
+      "imageUrl": "https://www.beyoung.in/api/cache/catalog/products/polo_new_update_images_10_1_2022/french_wine_polo_t-shirt_base_2_2_2022_19_05_2023_700x933.jpg"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "price": 50,
       "size": ["30", "32", "34", "36"],
       "color": ["Blue", "Black"],
-      "imageUrl": "path/to/jeans.jpg"
+      "imageUrl": "./assets/Men's Hat.jpg"
     },
     {
       "id": 3,

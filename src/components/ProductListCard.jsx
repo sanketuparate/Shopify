@@ -3,7 +3,7 @@ import React from "react";
 function ProductListCard({ product }) {
   return (
     <div className="product-card">
-      <img src={product.image} alt={product.name} />
+      <img src={product.imageUrl} alt={product.name} />
       <div className="product-details">
         <h3>{product.name}</h3>
         <p>{product.description}</p>
