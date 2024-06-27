@@ -1,4 +1,5 @@
 import React from "react";
+import '../styles/ProductListCard.css';
 
 function ProductListCard({ product }) {
   return (

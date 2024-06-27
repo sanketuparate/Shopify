@@ -1,0 +1,29 @@
+.product-card {
+    display: flex;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 16px;
+    max-width: 300px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .product-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .product-details {
+    padding: 16px;
+  }
+  
+  .product-details h3 {
+    font-size: 1.5em;
+    margin-bottom: 8px;
+  }
+  
+  .product-details p {
+    margin: 8px 0;
+    font-size: 1.1em;
+  }
+  

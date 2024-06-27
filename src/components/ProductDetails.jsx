@@ -3,6 +3,7 @@ import { useParams } from "react-router-dom";
 import Men from "../data/Men-Product-Details.json";
 import Women from "../data/Women-Product-Details.json";
 import Electronics from "../data/Electronics-Product-Details.json";
+import '../styles/ProductDetails.css';
 
 const ProductDetails = () => {
   const { category, id } = useParams();
