@@ -4,56 +4,70 @@
       "id": 21,
       "name": "Smartphone",
       "description": "Latest model smartphone",
-      "price": 700
+      "price": 700,
+      "imageUrl": "https://m.media-amazon.com/images/I/41GsqdiCvOL._SX300_SY300_QL70_FMwebp_.jpg"
     },
     {
       "id": 22,
       "name": "Laptop",
       "description": "High-performance laptop",
-      "price": 1200
+      "price": 1200,
+      "imageUrl": "https://m.media-amazon.com/images/I/71DozMyPCBL._SL1500_.jpg"
     },
     {
       "id": 23,
       "name": "Headphones",
       "description": "Noise-cancelling headphones",
-      "price": 200
+      "price": 200,
+      "imageUrl": "https://m.media-amazon.com/images/I/61FUX7QmifS._SY450_.jpg"
     },
     {
       "id": 24,
       "name": "Smartwatch",
       "description": "Fitness tracking smartwatch",
-      "price": 300
+      "price": 300,
+      "imageUrl": "https://m.media-amazon.com/images/I/41HLMvalT6L._SX300_SY300_QL70_FMwebp_.jpg"
     },
     {
       "id": 25,
       "name": "Tablet",
       "description": "10-inch screen tablet",
-      "price": 400
+      "price": 400,
+      "imageUrl": "https://m.media-amazon.com/images/I/4104C7K0ftL._SY300_SX300_QL70_FMwebp_.jpg"
     },
     {
       "id": 26,
       "name": "Camera",
       "description": "Digital SLR camera",
-      "price": 800
+      "price": 800,
+      "imageUrl": "https://m.media-amazon.com/images/I/318FD8X6ndL._SX300_SY300_QL70_FMwebp_.jpg"
     },
     {
       "id": 27,
       "name": "Speaker",
       "description": "Bluetooth portable speaker",
-      "price": 100
+      "price": 100,
+      "imageUrl": "https://m.media-amazon.com/images/I/41tJlwgYciL._SX300_SY300_QL70_FMwebp_.jpg"
     },
     {
       "id": 28,
       "name": "Monitor",
       "description": "27-inch 4K monitor",
-      "price": 350
+      "price": 350,
+      "imageUrl": "https://m.media-amazon.com/images/I/51VunwR4LqL._SY300_SX300_QL70_FMwebp_.jpg"
     },
     {
       "id": 29,
       "name": "Keyboard",
       "description": "Mechanical keyboard",
-      "price": 100
+      "price": 100,
+      "imageUrl": "https://m.media-amazon.com/images/I/31AbPmi+CVL._SY300_SX300_.jpg"
     },
-    { "id": 30, "name": "Mouse", "description": "Wireless mouse", "price": 50 }
+    { 
+      "id": 30,
+      "name": "Mouse",
+      "description": "Wireless mouse",
+       "price": 50,
+       "imageUrl": "https://m.media-amazon.com/images/I/31R5FtHMDiL._SY300_SX300_QL70_FMwebp_.jpg" }
   ]
 }

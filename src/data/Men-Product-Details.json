@@ -16,7 +16,7 @@
       "price": 50,
       "size": ["30", "32", "34", "36"],
       "color": ["Blue", "Black"],
-      "imageUrl": "./assets/Men's Hat.jpg"
+      "imageUrl": "https://levi.in/cdn/shop/files/182981335_01_Style_Shot_bfd6eb12-57c3-4689-b994-09923212fdbb.jpg?v=1712741770"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "price": 100,
       "size": ["M", "L", "XL", "XXL"],
       "color": ["Black", "Navy"],
-      "imageUrl": "path/to/jacket.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/71Shkxo300L._SY741_.jpg"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "price": 70,
       "size": ["8", "9", "10", "11"],
       "color": ["Red", "Blue", "Gray"],
-      "imageUrl": "path/to/sneakers.jpg"
+      "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20240130/BqQi/65b8fa3316fd2c6e6ac94c00/-473Wx593H-467021554-white-MODEL.jpg"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "price": 15,
       "size": ["One Size"],
       "color": ["Black", "White"],
-      "imageUrl": "path/to/hat.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/51nANZkbPzL._SX679_.jpg"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "price": 25,
       "size": ["One Size"],
       "color": ["Black", "Brown"],
-      "imageUrl": "path/to/sunglasses.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/51wwVl2r-WL._SX679_.jpg"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "price": 150,
       "size": ["One Size"],
       "color": ["Black", "Brown"],
-      "imageUrl": "path/to/watch.jpg"
+      "imageUrl": "https://www.gonoise.com/cdn/shop/files/1200x1200_51__magic_1_1.png?v=1711280604"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "price": 30,
       "size": ["M", "L", "XL"],
       "color": ["Black", "Brown"],
-      "imageUrl": "path/to/belt.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/71PWQ1b8LHL._SX679_.jpg"
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "price": 40,
       "size": ["One Size"],
       "color": ["Black", "Brown"],
-      "imageUrl": "path/to/wallet.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/51PXhevc0UL._SX300_SY300_.jpg"
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "price": 10,
       "size": ["M", "L", "XL"],
       "color": ["Black", "White", "Gray"],
-      "imageUrl": "path/to/socks.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/81oB+dBeMBL._SX679_.jpg"
     }
   ]
 }

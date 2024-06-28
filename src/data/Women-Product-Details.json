@@ -7,7 +7,7 @@
       "price": 80,
       "size": ["S", "M", "L", "XL"],
       "color": ["Red", "Blue", "Black"],
-      "imageUrl": "path/to/dress.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/81CQ9IwxgsL._SY741_.jpg"
     },
     {
       "id": 12,
@@ -16,7 +16,7 @@
       "price": 45,
       "size": ["S", "M", "L", "XL"],
       "color": ["White", "Pink", "Blue"],
-      "imageUrl": "path/to/blouse.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/71ZTs6jH5JL._SX679_.jpg"
     },
     {
       "id": 13,
@@ -25,7 +25,7 @@
       "price": 35,
       "size": ["S", "M", "L", "XL"],
       "color": ["Yellow", "Blue", "Green"],
-      "imageUrl": "path/to/skirt.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/41Mx2n5Z01L._SY679_.jpg"
     },
     {
       "id": 14,
@@ -34,7 +34,7 @@
       "price": 60,
       "size": ["6", "7", "8", "9"],
       "color": ["Black", "Red", "Nude"],
-      "imageUrl": "path/to/heels.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/419ZcmLlIdL._SX625_.jpg"
     },
     {
       "id": 15,
@@ -43,7 +43,7 @@
       "price": 100,
       "size": ["One Size"],
       "color": ["Black", "Brown", "Beige"],
-      "imageUrl": "path/to/bag.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/61+mLsWpdwL._SY695_.jpg"
     },
     {
       "id": 16,
@@ -52,7 +52,7 @@
       "price": 20,
       "size": ["One Size"],
       "color": ["Red", "Blue", "Green"],
-      "imageUrl": "path/to/scarf.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/813OBrN0KML._SX679_.jpg"
     },
     {
       "id": 17,
@@ -61,7 +61,7 @@
       "price": 75,
       "size": ["One Size"],
       "color": ["Gold", "Silver"],
-      "imageUrl": "path/to/necklace.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/71VgaEnEu+L._SY575_.jpg"
     },
     {
       "id": 18,
@@ -70,7 +70,7 @@
       "price": 150,
       "size": ["One Size"],
       "color": ["Silver"],
-      "imageUrl": "path/to/earrings.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/916DgT0z7BL._SY575_.jpg"
     },
     {
       "id": 19,
@@ -79,7 +79,7 @@
       "price": 50,
       "size": ["One Size"],
       "color": ["Silver"],
-      "imageUrl": "path/to/bracelet.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/71Vjnob0hXL._SY575_.jpg"
     },
     {
       "id": 20,
@@ -88,7 +88,7 @@
       "price": 25,
       "size": ["One Size"],
       "color": ["Beige", "White", "Black"],
-      "imageUrl": "path/to/hat.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/41CgGCwcVWL.jpg"
     }
   ]
 }

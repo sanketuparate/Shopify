@@ -4,61 +4,71 @@
       "id": 11,
       "name": "Women's Dress",
       "description": "Elegant evening dress",
-      "price": 80
+      "price": 80,
+      "imageUrl": "https://m.media-amazon.com/images/I/81CQ9IwxgsL._SY741_.jpg"
     },
     {
       "id": 12,
       "name": "Women's Blouse",
       "description": "Chic silk blouse",
-      "price": 45
+      "price": 45,
+      "imageUrl": "https://m.media-amazon.com/images/I/71ZTs6jH5JL._SX679_.jpg"
     },
     {
       "id": 13,
       "name": "Women's Skirt",
       "description": "Floral summer skirt",
-      "price": 35
+      "price": 35,
+      "imageUrl": "https://m.media-amazon.com/images/I/41Mx2n5Z01L._SY679_.jpg"
     },
     {
       "id": 14,
       "name": "Women's Heels",
       "description": "High-heeled shoes",
-      "price": 60
+      "price": 60,
+      "imageUrl": "https://m.media-amazon.com/images/I/419ZcmLlIdL._SX625_.jpg"
     },
     {
       "id": 15,
       "name": "Women's Bag",
       "description": "Leather handbag",
-      "price": 100
+      "price": 100,
+      "imageUrl": "https://m.media-amazon.com/images/I/61+mLsWpdwL._SY695_.jpg"
     },
     {
       "id": 16,
       "name": "Women's Scarf",
       "description": "Silk scarf",
-      "price": 20
+      "price": 20,
+      "imageUrl": "https://m.media-amazon.com/images/I/813OBrN0KML._SX679_.jpg"
     },
     {
       "id": 17,
       "name": "Women's Necklace",
       "description": "Gold-plated necklace",
-      "price": 75
+      "price": 75,
+      "imageUrl": "https://m.media-amazon.com/images/I/71VgaEnEu+L._SY575_.jpg"
     },
     {
       "id": 18,
       "name": "Women's Earrings",
       "description": "Diamond earrings",
-      "price": 150
+      "price": 150,
+      "imageUrl": "https://m.media-amazon.com/images/I/916DgT0z7BL._SY575_.jpg"
     },
     {
       "id": 19,
       "name": "Women's Bracelet",
       "description": "Silver bracelet",
-      "price": 50
+      "price": 50,
+      "imageUrl": "https://m.media-amazon.com/images/I/71Vjnob0hXL._SY575_.jpg"
     },
     {
       "id": 20,
       "name": "Women's Hat",
       "description": "Wide-brim hat",
-      "price": 25
+      "price": 25,
+      "imageUrl": "https://m.media-amazon.com/images/I/41CgGCwcVWL.jpg"
     }
   ]
 }

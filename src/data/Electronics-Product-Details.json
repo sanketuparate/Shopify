@@ -12,7 +12,7 @@
         "color": ["Black", "White", "Blue"],
         "battery": "4000mAh"
       },
-      "imageUrl": "assets/Electronics/Smartphone.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/41GsqdiCvOL._SX300_SY300_QL70_FMwebp_.jpg"
     },
     {
       "id": 22,
@@ -40,7 +40,7 @@
         "color": ["Black", "White"],
         "batteryLife": "20 hours"
       },
-      "imageUrl": "path/to/headphones.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/61FUX7QmifS._SY450_.jpg"
     },
     {
       "id": 24,
@@ -53,7 +53,7 @@
         "color": ["Black", "Silver", "Rose Gold"],
         "batteryLife": "48 hours"
       },
-      "imageUrl": "path/to/smartwatch.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/41HLMvalT6L._SX300_SY300_QL70_FMwebp_.jpg"
     },
     {
       "id": 25,
@@ -67,7 +67,7 @@
         "color": ["Black", "White"],
         "battery": "6000mAh"
       },
-      "imageUrl": "path/to/tablet.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/4104C7K0ftL._SY300_SX300_QL70_FMwebp_.jpg"
     },
     {
       "id": 26,
@@ -80,7 +80,7 @@
         "lens": "18-55mm",
         "color": ["Black"]
       },
-      "imageUrl": "path/to/Camera.png"
+      "imageUrl": "https://m.media-amazon.com/images/I/318FD8X6ndL._SX300_SY300_QL70_FMwebp_.jpg"
     },
     {
       "id": 27,
@@ -93,7 +93,7 @@
         "color": ["Black", "Red", "Blue"],
         "batteryLife": "10 hours"
       },
-      "imageUrl": "path/to/Speaker.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/41tJlwgYciL._SX300_SY300_QL70_FMwebp_.jpg"
     },
     {
       "id": 28,
@@ -107,7 +107,7 @@
         "resolution": "3840x2160",
         "color": ["Black"]
       },
-      "imageUrl": "path/to/monitor.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/51VunwR4LqL._SY300_SX300_QL70_FMwebp_.jpg"
     },
     {
       "id": 29,
@@ -120,7 +120,7 @@
         "color": ["Black", "White"],
         "switchType": "Cherry MX"
       },
-      "imageUrl": "path/to/keyboard.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/31AbPmi+CVL._SY300_SX300_.jpg"
     },
     {
       "id": 30,
@@ -133,7 +133,7 @@
         "color": ["Black", "Gray"],
         "batteryLife": "6 months"
       },
-      "imageUrl": "path/to/mouse.jpg"
+      "imageUrl": "https://m.media-amazon.com/images/I/31R5FtHMDiL._SY300_SX300_QL70_FMwebp_.jpg"
     }
   ]
 }
